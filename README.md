@@ -13,11 +13,9 @@
 </div>
 <br>
 <div>
-  <a href="www.linkedin.com/in/jamuare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/jamuare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+  ![Snake animation](https://github.com/Jamuare/Jamuare/blob/output/github-contribution-grid-snake.gif)  
 </div>
-<br>
-![Snake animation](https://github.com/Jamuare/Jamuare/blob/output/github-contribution-grid-snake.gif?raw=true)
-
 <!---
 Jamuare/Jamuare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
