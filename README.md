@@ -9,12 +9,14 @@
 </div>
 <div><br>
             <img align="center" alt="Jamu-Python" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-            <img aign="center" alt="Jamua-Java" height="80" width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F3%2F30%2FJava_programming_language_logo.svg%2F1200px-Java_programming_language_logo.svg.png&f=1&nofb=1"/>
+             <img aign="right" alt="Jamua-Java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
+        
 <br>
 <div>
-  <a href="www.linkedin.com/in/jamuare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
-  <img align="center" src="https://github.com/Jamuare/Jamuare/blob/output/github-contribution-grid-snake.svg">
+  <a href="www.linkedin.com/in/jamuare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <br>
+  <img align="center" src="https://github.com/Jamuare/Jamuare/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 <!---
 Jamuare/Jamuare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
