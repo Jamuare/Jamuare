@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamuare&show_icons=true&theme=highcontrast"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamuare&layout=compact&theme=highcontrast"/>
 </div>
-<div><br>
+<div class="verticalcenter"><br>
             <img align="center" alt="Jamu-Python" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
             <img aign="center" alt="Jamua-Java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 </div>
@@ -20,3 +20,10 @@
 Jamuare/Jamuare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<style>
+.verticalcenter {
+    display: table-cell;
+    height: 400px;
+    vertical-align: middle;
+}
+</style>
